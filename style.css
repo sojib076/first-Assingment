@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
 body{
     margin: 0px;
     padding: 0px;
- 
+    font-family: 'Roboto Slab', serif;
 } 
 
 
@@ -23,14 +25,14 @@ body{
 }
 .middle p{
     font-size: 30px;
-    color: white;
-    font-family: 'Roboto', sans-serif;
+    color: rgb(255, 255, 255);
+   
     margin-top: 10px;
 }
  .middle h1{
     font-size: 50px;
     color: rgb(255, 255, 255);
-    font-family: 'Roboto', sans-serif;
+ 
     margin-top: 20px;
     
 }
